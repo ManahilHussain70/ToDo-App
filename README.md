@@ -1,16 +1,66 @@
-# to_do_app
+# ✅ To-Do App  
 
-A new Flutter project.
+A simple and beautiful **Flutter To-Do application** with **Hive database** for offline storage.  
+Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀  
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)](https://flutter.dev)  
+[![Hive](https://img.shields.io/badge/Database-Hive-yellow)](https://docs.hivedb.dev/)  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📑 Table of Contents
+- [✨ Features](#-features)
+- [🛠️ Technologies](#️-technologies)
+- [📸 Screenshots](#-screenshots)
+- [🎥 Demo](#-demo)
+- [🚀 Getting Started](#-getting-started)
+- [💡 Future Improvements](#-future-improvements)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+- ➕ Add new tasks with a custom dialog  
+- ✅ Mark tasks as completed  
+- 🗑 Swipe to delete tasks (Slidable)  
+- 💾 Local storage with Hive database  
+- 🎨 Gradient background and custom FAB  
+
+---
+
+## 🛠️ Technologies
+- **Flutter (Dart)**  
+- **Hive (Local Database)**  
+- **Slidable (Swipe to delete)**  
+- **Google Fonts** for modern typography  
+
+---
+
+## 📸 Screenshots  
+
+### App Flow 
+<img src="assets/" width="300">  
+
+### Demo Vedio
+<img src="assets/dialog.png" width="300">  
+
+---
+
+
+
+## 🚀 Getting Started  
+
+To run this project locally:  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/to_do_app.git
+
+# Navigate to project directory
+cd to_do_app
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
