@@ -39,10 +39,12 @@ Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀
 ## 📸 Screenshots  
 
 ### App Flow 
-<img src="assets/" width="300">  
+<img src="assets/HomeScreen(1).png
+" width="300">  
 
 ### Demo Vedio
-<img src="assets/dialog.png" width="300">  
+<img src="assets/todo_app_vedio-ezgif.com-video-to-gif-converter.mp4
+" width="300">  
 
 ---
 
