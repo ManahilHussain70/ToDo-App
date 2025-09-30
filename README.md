@@ -37,17 +37,14 @@ Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀
 ## 📸 Screenshots
 
 ### App Flow
-<!-- Path updated to `screenshts/` folder where your images live -->
 <img src="screenshts/HomeScreen (1).png" width="300" alt="App Flow - HomeScreen">
 
 ---
 
 ## 🎥 Demo
 
-
-**GIF version (recommended for README):**
+**GIF version (recommended for README):**  
 ![Demo GIF](screenshts/todo_app_vedio-ezgif.com-video-to-gif-converter.gif)
-
 
 ---
 
@@ -57,10 +54,10 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/to_do_app.git
+git clone https://github.com/ManahilHussain70/ToDo-App.git
 
 # Navigate to project directory
-cd to_do_app
+cd ToDo-App
 
 # Get dependencies
 flutter pub get
