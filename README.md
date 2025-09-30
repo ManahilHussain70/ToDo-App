@@ -1,10 +1,10 @@
-# ✅ To-Do App  
+# ✅ To-Do App
 
 A simple and beautiful **Flutter To-Do application** with **Hive database** for offline storage.  
-Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀  
+Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)](https://flutter.dev)  
-[![Hive](https://img.shields.io/badge/Database-Hive-yellow)](https://docs.hivedb.dev/)  
+[![Hive](https://img.shields.io/badge/Database-Hive-yellow)](https://docs.hivedb.dev/)
 
 ---
 
@@ -14,8 +14,6 @@ Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀
 - [📸 Screenshots](#-screenshots)
 - [🎥 Demo](#-demo)
 - [🚀 Getting Started](#-getting-started)
-- [💡 Future Improvements](#-future-improvements)
-
 
 ---
 
@@ -36,23 +34,26 @@ Add, check, and delete your tasks with an elegant UI and smooth experience. 🚀
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots
 
-### App Flow 
-<img src="assets/HomeScreen(1).png
-" width="300">  
-
-### Demo Vedio
-<img src="assets/todo_app_vedio-ezgif.com-video-to-gif-converter.mp4
-" width="300">  
+### App Flow
+<!-- Path updated to `screenshts/` folder where your images live -->
+<img src="screenshts/HomeScreen (1).png" width="300" alt="App Flow - HomeScreen">
 
 ---
 
+## 🎥 Demo
 
 
-## 🚀 Getting Started  
+**GIF version (recommended for README):**
+![Demo GIF](screenshts/todo_app_vedio-ezgif.com-video-to-gif-converter.gif)
 
-To run this project locally:  
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
 
 ```bash
 # Clone the repository
@@ -64,5 +65,5 @@ cd to_do_app
 # Get dependencies
 flutter pub get
 
-# Run the app
+# Run the app (choose a device/emulator first)
 flutter run
